@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Professional creative artist for print and digital media, from publishing to web and mobile platforms. Front-end UI/UX experience with social media and content management capabilities. Skills in photography and video editing plus project management and administration knowledge.
+
 <!--
 **iamlaguna/iamlaguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
