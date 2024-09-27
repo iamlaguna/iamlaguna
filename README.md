@@ -1,5 +1,7 @@
 ## Melvin Macatiag
 
+![Design and Development](https://github.com/iamlaguna/iamlaguna/blob/main/Github-Banner-01-Scratches.jpg)
+
 Professional creative artist for print and digital media, from publishing to web and mobile platforms. Front-end UI/UX experience with social media and content management capabilities. Skills in photography and video editing plus project management and administration knowledge.
 
 <!--
